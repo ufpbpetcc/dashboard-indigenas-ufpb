@@ -1,0 +1,80 @@
+CAMPUS,CENTRO,CURSO,ÁREA GERAL,QUANTITATIVO DISCENTE INDÍGENA ATIVO GRADUAÇÃO
+EAD,CCAE,LETRAS - INGLÊS,Educação,1
+EAD,CCEN,MATEMÁTICA - EAD,Educação,1
+EAD,CCHLA.,LETRAS - LIBRAS,Educação,2
+EAD,CCHSA,CIÊNCIAS AGRÁRIAS -EAD,Educação,1
+I,CCEN,CIÊNCIAS BIOLÓGICAS,"Ciências naturais, matemática e estatística",4
+I,CCEN,FÍSICA,"Ciências naturais, matemática e estatística",2
+I,CCEN,GEOGRAFIA,"Ciências sociais, comunicação e informação",2
+I,CCEN,MATEMÁTICA,"Ciências naturais, matemática e estatística",1
+I,CCHLA.,CIÊNCIAS SOCIAIS,"Ciências sociais, comunicação e informação",4
+I,CCHLA.,FILOSOFIA,Artes e humanidades,1
+I,CCHLA.,HISTÓRIA,Educação,6
+I,CCHLA.,LETRAS - ESPANHOL,Educação,1
+I,CCHLA.,LETRAS - INGLÊS,Educação,6
+I,CCHLA.,LETRAS - LETRAS CLÁSSICAS (GREGO E LATIM),Educação,4
+I,CCHLA.,LETRAS - LÍNGUA PORTUGUESA,Educação,5
+I,CCHLA.,LÍNGUAS ESTRANGEIRAS APLICADAS ÀS NEGOCIAÇÕES INTERNACIONAIS,Artes e humanidades,3
+I,CCHLA.,SERVIÇO SOCIAL,Saúde e bem-estar,6
+I,CCJ,DIREITO,"Negócios, administração e direito",9
+I,CCM,MEDICINA,Saúde e bem-estar ,1
+I,CCS,BIOMEDICINA,Saúde e bem-estar ,1
+I,CCS,EDUCAÇÃO FÍSICA,Saúde e bem-estar ,1
+I,CCS,EDUCAÇÃO FÍSICA - LICENCIATURA,Educação,1
+I,CCS,ENFERMAGEM,Saúde e bem-estar ,3
+I,CCS,FARMÁCIA,Saúde e bem-estar ,1
+I,CCS,FISIOTERAPIA,Saúde e bem-estar ,2
+I,CCS,FONOAUDIOLOGIA,Saúde e bem-estar ,2
+I,CCS,NUTRIÇÃO,Saúde e bem-estar ,1
+I,CCS,ODONTOLOGIA,Saúde e bem-estar ,5
+I,CCS,TERAPIA OCUPACIONAL,Saúde e bem-estar ,2
+I,CCSA,ADMINISTRAÇÃO,"Negócios, administração e direito",5
+I,CCSA,ARQUIVOLOGIA,"Ciências sociais, comunicação e informação / Educação",4
+I,CCSA,BIBLIOTECONOMIA,"Ciências sociais, comunicação e informação / Educação",3
+I,CCSA,CIÊNCIAS ATUARIAIS,"Ciências naturais, matemática e estatística",2
+I,CCSA,CIÊNCIAS CONTÁBEIS,"Negócios, administração e direito",3
+I,CCSA,CIÊNCIAS ECONÔMICAS,"Ciências sociais, comunicação e informação / Educação",1
+I,CCSA,GESTÃO PÚBLICA,"Negócios, administração e direito",1
+I,CCSA,RELACÕES INTERNACIONAIS,"Ciências sociais, comunicação e informação / Educação",1
+I,CCTA,CINEMA E AUDIOVISUAL,Artes e humanidades,1
+I,CCTA,DANÇA,Educação,3
+I,CCTA,JORNALISMO,"Ciências sociais, comunicação e informação / Educação",4
+I,CCTA,MÚSICA,Artes e humanidades,5
+I,CCTA,RADIALISMO,"Ciências sociais, comunicação e informação / Educação",3
+I,CCTA,RELAÇÕES PÚBLICAS,"Negócios, administração e direito",1
+I,CCTA,TEATRO (LICENCIATURA),Educação,4
+I,CCTA,TURISMO,Serviços,4
+I,CE,PEDAGOGIA,Educação,2
+I,CE,PEDAGOGIA - EDUCAÇÃO DO CAMPO,Educação,1
+I,CEAR,ENGENHARIA DE ENERGIAS RENOVÁVEIS,"Engenharia, produção e construção",3
+I,CEAR,ENGENHARIA ELÉTRICA,"Engenharia, produção e construção",1
+I,CI,CIÊNCIA DA COMPUTAÇÃO,Computação e Tecnologias da Informação e Comunicação (TIC),1
+I,CI,CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL,Computação e Tecnologias da Informação e Comunicação (TIC),1
+I,CT,ARQUITETURA E URBANISMO,"Engenharia, produção e construção",1
+I,CT,ENGENHARIA AMBIENTAL,"Engenharia, produção e construção",2
+I,CT,ENGENHARIA CIVIL,"Engenharia, produção e construção",1
+I,CT,ENGENHARIA DE MATERIAIS,"Engenharia, produção e construção",2
+I,CT,ENGENHARIA MECÂNICA,"Engenharia, produção e construção",2
+I,CT,ENGENHARIA QUÍMICA,"Engenharia, produção e construção",2
+I,CT,QUÍMICA INDUSTRIAL,"Ciências naturais, matemática e estatística",1
+I,CTDR,GASTRONOMIA,Serviços,2
+I,CTDR,TECNOLOGIA DE ALIMENTOS,"Engenharia, produção e construção",1
+I,CTDR,TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA,"Engenharia, produção e construção",2
+II,CCA,AGRONOMIA,"Agricultura, silvicultura, pesca e veterinária",4
+II,CCA,MEDICINA VETERINÁRIA,"Agricultura, silvicultura, pesca e veterinária",1
+II,CCA,ZOOTECNIA,"Agricultura, silvicultura, pesca e veterinária",1
+III,CCHSA,ADMINISTRAÇÃO,"Negócios, administração e direito",1
+III,CCHSA,AGROECOLOGIA,"Agricultura, silvicultura, pesca e veterinária",3
+III,CCHSA,AGROINDÚSTRIA,"Agricultura, silvicultura, pesca e veterinária",2
+III,CCHSA,CIÊNCIAS AGRÁRIAS,Educação,2
+IV,CCAE,ADMINISTRAÇÃO,"Negócios, administração e direito",16
+IV,CCAE,ANTROPOLOGIA,"Ciências sociais, comunicação e informação",69
+IV,CCAE,CIÊNCIA DA COMPUTAÇÃO,Educação,9
+IV,CCAE,CIÊNCIAS CONTÁBEIS,"Negócios, administração e direito",21
+IV,CCAE,DESIGN,Artes e humanidades,3
+IV,CCAE,ECOLOGIA,"Ciências naturais, matemática e estatística",79
+IV,CCAE,LETRAS -  LÍNGUA PORTUGUESA,Educação,26
+IV,CCAE,MATEMÁTICA (LICENCIATURA),Educação,54
+IV,CCAE,PEDAGOGIA,Educação,36
+IV,CCAE,SECRETARIADO EXECUTIVO BILÍNGUE,"Negócios, administração e direito",44
+IV,CCAE,SISTEMAS DE INFORMAÇÃO,Computação e Tecnologias da Informação e Comunicação (TIC),11
